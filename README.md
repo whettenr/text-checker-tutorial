@@ -3,4 +3,4 @@
 
 Positive Class WordCloud   |  Negative Class WordCloud
 :-------------------------:|:-------------------------:
-![](./pos_sent_cloud.png)  |  ![](./neg_sent_cloud.png)
+![](pos_sent_cloud.png)  |  ![](neg_sent_cloud.png)
