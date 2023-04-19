@@ -22,9 +22,6 @@ Positive Class WordCloud   |  Negative Class WordCloud
 :-------------------------:|:-------------------------:
 ![](possent_cloud.png)  |  ![](negsent_cloud.png)
 
-$P(y|x_1, ..., x_n) = \frac{P(y)P(x_1, ..., x_n|y)}{P(x_1, ..., x_n)}$ 
-
-
 ## Data gathering w/ChatGTP
 
 ![](DatasetCreationExample.png)
@@ -36,4 +33,7 @@ $P(y|x_1, ..., x_n) = \frac{P(y)P(x_1, ..., x_n|y)}{P(x_1, ..., x_n)}$
 *Random Forest with TF-IDF and Text Embeddings*
 
 ## Limitations & Next Steps
+- only small about simulated data
+- What about using the sentiment of the message as a feature?
+- What you want and don't want to send depends on who you're communicating with. In a real life senario, it could be helpful to include a *reciever* feature (such as coworker, boss, mom, family)
 
