@@ -37,3 +37,12 @@ Positive Class WordCloud   |  Negative Class WordCloud
 - What about using the sentiment of the message as a feature?
 - What you want and don't want to send depends on who you're communicating with. In a real life senario, it could be helpful to include a *reciever* feature (such as coworker, boss, mom, family)
 
+
+## Getting your environment set up (using venv and pip)
+```bash
+python3 -m venv env
+
+source env/bin/activate
+
+pip install -r requirements.txt
+```
