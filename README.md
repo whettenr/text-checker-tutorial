@@ -1,6 +1,6 @@
 # Text Confirmation Dector
 
-**"Are you sure you want to send that message?"**
+*Are you sure you want to send that message?*
 
 A brief nlp classification tutorial. In this setting, we are creating a model that would decide when to display a confimation message to a user sending a message. Ideally we would like the model to detect messages that contain potentailly harmful or personal messages.
 
