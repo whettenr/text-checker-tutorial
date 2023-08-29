@@ -6,3 +6,5 @@ wordcloud
 nltk
 scikit-learn
 plotly
+sentence-transformers
+joblib
