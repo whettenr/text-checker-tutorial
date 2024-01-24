@@ -1,4 +1,4 @@
-# Text Confirmation Dector
+# Text Checker Tutorial
 
 *Are you sure you want to send that message?*
 
